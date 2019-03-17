@@ -1,1 +1,0 @@
-# homework-of-statcomp
